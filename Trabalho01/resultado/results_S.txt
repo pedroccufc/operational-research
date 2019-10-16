@@ -1,0 +1,72 @@
+ FILE: v100_d10.dat
+n=100 m=495 d=10%
+Objective Function Value = 13.00
+Solucao válida
+Time: 8.7993 second(s).
+
+ FILE: v100_d20.dat
+n=100 m=990 d=20%
+Objective Function Value = 8.00
+Solucao válida
+Time: 22.528 second(s).
+
+ FILE: v100_d30.dat
+n=100 m=1485 d=30%
+Objective Function Value = 6.00
+Solucao válida
+Time: 67.019 second(s).
+
+ FILE: v100_d50.dat
+n=100 m=2475 d=50%
+Objective Function Value = 4.00
+Solucao válida
+Time: 38.878 second(s).
+
+ FILE: v100_d5.dat
+n=100 m=248 d=5%
+Objective Function Value = 23.00
+Solucao válida
+Time: 1.8214 second(s).
+
+ FILE: v100_d70.dat
+n=100 m=3465 d=70%
+Objective Function Value = 3.00
+Solucao válida
+Time: 94.898 second(s).
+
+ FILE: v120_d10.dat
+n=120 m=714 d=10%
+Objective Function Value = 13.00
+Solucao válida
+Time: 60.156 second(s).
+
+ FILE: v120_d20.dat
+n=120 m=1428 d=20%
+Objective Function Value = 8.00
+Solucao válida
+Time: 204.79 second(s).
+
+ FILE: v120_d30.dat
+n=120 m=2142 d=30%
+Objective Function Value = 6.00
+Solucao válida
+Time: 173.21 second(s).
+
+ FILE: v120_d50.dat
+n=120 m=3570 d=50%
+Objective Function Value = 4.00
+Solucao válida
+Time: 186.31 second(s).
+
+ FILE: v120_d5.dat
+n=120 m=357 d=5%
+Objective Function Value = 25.00
+Solucao válida
+Time: 13.505 second(s).
+
+ FILE: v120_d70.dat
+n=120 m=4998 d=70%
+Objective Function Value = 3.00
+Solucao válida
+Time: 127.92 second(s).
+
